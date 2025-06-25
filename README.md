@@ -10,9 +10,8 @@
 | **Total** | **383**            | **6156** | **64** | **4645** | **10824**         |
 
 
-### Exemplos de Detecção e Segmentação aplicados no dataset, usando o YOLOv8n.
 
-<h3>Exemplos de imagens histológicas de lesões de brânquias</h3>
+### Exemplos de Detecção e Segmentação aplicados no dataset, usando o YOLOv8n.
 <p>(a) Imagem original; (b) Máscaras de segmentação rotuladas pelo especialista;<br>
 (c) Objetos Detectados; (d) Objetos segmentados.</p>
 
