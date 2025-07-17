@@ -1,9 +1,9 @@
 # GILLHISTDB
 
-### Sobre o dataset
-Este conjunto de dados contém 383 imagens com dimensões variadas. A base de imagens foi subdividida aleatoriamente em três partes: treino, validação e teste. O conjunto de treino contém 351 imagens (4.348 DE, 39 FU, 3.351 HI), o conjunto de validação contém 17 imagens (930 DE, 14 FU, 709 HI) e o conjunto de teste contém 15 imagens (837 DE, 11 FU, 585 HI). Dessa forma, um total de 10.824 lesões foram rotuladas. Ao todo, a classe (DE) possui 6.156 lesões, a classe (FU) possui 64 lesões e a classe (HI) possui 4.645 lesões. Os detalhes específicos da divisão do conjunto de dados estão apresentados na Tabela a seguir.
+### About the dataset
+This dataset contains 383 images with varying dimensions. The image dataset was randomly subdivided into three parts: training, validation, and testing. The training set contains 351 images (4,348 DE, 39 FU, 3,351 HI), the validation set contains 17 images (930 DE, 14 FU, 709 HI), and the testing set contains 15 images (837 DE, 11 FU, 585 HI). Thus, a total of 10,824 lesions were labeled. In total, the (DE) class has 6,156 lesions, the (FU) class has 64 lesions, and the (HI) class has 4,645 lesions. The specific details of the dataset division are presented in the following Table.
 
-### Tabela: Divisão do conjunto de dados usado no experimento
+### Table: Information about the dataset used in the experiment.
 
 | Dataset   | Número de Imagens | DE    | FU  | HI    | Total de Lesões |
 |-----------|--------------------|-------|-----|--------|------------------|
@@ -14,7 +14,7 @@ Este conjunto de dados contém 383 imagens com dimensões variadas. A base de im
 
 
 
-### Exemplos de Detecção e Segmentação aplicados no dataset, usando o YOLOv8n.
+### Examples of Detection and Segmentation applied to the dataset, using YOLOv8n.
 <p>(a) Imagem original; (b) Máscaras de segmentação rotuladas pelo especialista;<br>
 (c) Objetos Detectados; (d) Objetos segmentados.</p>
 
