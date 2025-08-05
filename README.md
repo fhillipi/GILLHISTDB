@@ -40,4 +40,4 @@ This dataset contains 383 images with varying dimensions. The image dataset was 
     </td>
   </tr>
 </table>
-<p><i>Fonte: O Autor.</i></p>
+<p><i>Fonte: A.F.M. Silva. 2025.</i></p>
